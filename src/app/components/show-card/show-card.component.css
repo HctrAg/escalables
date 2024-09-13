@@ -1,0 +1,17 @@
+.card{
+    width: 250px;
+    height: 400px;
+    margin: 20px;
+} 
+
+img{
+    height: 50%;
+}
+
+.selected{
+    background-color: beige;
+}
+
+.edit_card{
+    margin: 2rem;
+}
